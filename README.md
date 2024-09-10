@@ -16,13 +16,13 @@
 
 * From an end-user's perspective, Autofill will offer the following features:
 
-  * __List Event__: Users can list events on the platform listing time, date, location, and other relevant event details
+  1. __List Event__: Users can list events on the platform listing time, date, location, and other relevant event details
 
-  * __Join Event__: Users can browse through the events and join any event that they'd like
+  2. __Join Event__: Users can browse through the events and join any event that they'd like
 
-  * __Browser Events__: Events will be listed in an organized fashion with a trending page. They can be sorted based on date, time, price, and location
+  3. __Browser Events__: Events will be listed in an organized fashion with a trending page. They can be sorted based on date, time, price, and location
 
-  * __Notifications__: Users receive notifications notifying them of event related information such as joining
+  4. __Notifications__: Users receive notifications notifying them of event related information such as joining
 
 ### Scope
 
